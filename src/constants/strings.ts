@@ -1,10 +1,10 @@
-export const WORDLE_TITLE = 'Not Wordle'
+export const WORDLE_TITLE = 'Slackle'
 
-export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
+export const WIN_MESSAGES = ['You have achieved your tiny hit of dopamine for the day.', 'Great. Now go outside.', 'やった！']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
-export const ABOUT_GAME_MESSAGE = 'About this game'
+export const ABOUT_GAME_MESSAGE = 'Where did I steal this game?'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
-export const WORD_NOT_FOUND_MESSAGE = 'Word not found'
+export const WORD_NOT_FOUND_MESSAGE = 'Uhh.. not a word'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
   `The word was ${solution}`
 export const ENTER_TEXT = 'Enter'

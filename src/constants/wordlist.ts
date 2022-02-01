@@ -226,7 +226,7 @@ export const WORDS = [
   'could',
   'wrung',
   'light',
-  'those',
+  'gotem',
   'moist',
   'shard',
   'pleat',
